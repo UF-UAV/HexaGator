@@ -11,8 +11,4 @@ HexaGator
     :caption: Contents
 
     index
-    design
-    materials
-    construction
-    operation
-    troubleshooting
+    
