@@ -2,9 +2,9 @@
 
 # -- Project information
 
-    project = 'HexaGator'
-    copyright = '2021-2023, UF UAV Club'
-    author = 'UF UAV Club'
+project = 'HexaGator'
+copyright = '2021-2023, UF UAV Club'
+author = 'UF UAV Club'
 
 # -- General configuration
 
