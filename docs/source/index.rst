@@ -12,12 +12,12 @@ HexaGator
 
     index
 
-## Design
+    ## Design
 
-### Materials
+    ### Materials
 
-## Construction
+    ## Construction
 
-## Operating Procedures
+    ## Operating Procedures
 
-## Troubleshooting
+    ## Troubleshooting
