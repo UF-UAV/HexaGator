@@ -2,14 +2,10 @@
 
 # -- Project information
 
-'''
-    project = 'Lumache'
-    copyright = '2021, Graziella'
-    author = 'Graziella'
+    project = 'HexaGator'
+    copyright = '2021-2023, UF UAV Club'
+    author = 'UF UAV Club'
 
-    release = '0.1'
-    version = '0.1.0'
-'''
 # -- General configuration
 
 extensions = [
