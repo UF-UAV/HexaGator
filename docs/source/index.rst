@@ -11,13 +11,8 @@ HexaGator
     :caption: Contents
 
     index
-
-    Design
-
-    ### Materials
-
-    ## Construction
-
-    ## Operating Procedures
-
-    ## Troubleshooting
+    design
+    materials
+    construction
+    operation
+    troubleshooting
