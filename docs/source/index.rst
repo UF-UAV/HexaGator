@@ -12,7 +12,7 @@ HexaGator
 
     index
 
-    ## Design
+    Design
 
     ### Materials
 
