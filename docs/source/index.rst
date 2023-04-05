@@ -1,4 +1,4 @@
 HexaGator
 ===================================
 
-**HexaGator** (/lu'make/) is a low-cost multirotor drone for agricultural remote sensing applications.
+**HexaGator** is a low-cost multirotor drone for agricultural remote sensing applications.This guide will discuss the drone's design, construction, operation procedures, and troubleshooting.
